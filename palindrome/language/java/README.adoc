@@ -1,0 +1,5 @@
+= The Palindrome Challenge Java Implementation
+If you want a solution in Java please follow along this repository which contains the 
+more up to version of the solution.
+
+https://github.com/cortizqgithub/csoftz-torre-the-palindrome-challenge[The Palindrome Challenge in Java]
