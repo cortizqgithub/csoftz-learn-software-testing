@@ -1,0 +1,13 @@
+= csoftz-learn-software-testing
+
+v1.0.0-Sep.18/2017
+
+Contains all C#, Java, etc., projects used to study TDD, BDD and in general software testing.
+
+Each folder contains a study problem, read the docs to know what is it all about.
+
+== palindrome
+This is an example of using Palindromes, but with a twist.
+
+* **docs:** contains some guidance about the problem to tacke.
+* **language:** Contains projects and solutions written in the named folder languages.
