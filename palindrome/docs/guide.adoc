@@ -2,7 +2,8 @@
 A palindrome is a string that is read the same forwards as it is backwards, for example "mom" or "eye". 
 
 Please create a program that completes the following:
-* Find the palindromes between 1 and 1 million that are also palindromes in its binary form. E.g 585 = 1001001001~2~  and print 
+
+* Find the palindromes between 1 and 1 million that are also palindromes in its binary form. E.g 585~10~ = 1001001001~2~  and print 
 how many of those were found
 * Print the number of cycles needed to find the answer. A cycle is as defined as every time you execute the same line of code 
 within a routine of your program.  This is referred as Big O Notation.

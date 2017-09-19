@@ -11,8 +11,8 @@ This is an example of using Palindromes, but with a twist.
 
 * **docs:** contains some guidance about the problem to tacke.
 * **language:** Contains projects and solutions written in the named folder languages. That is,
-'palindrome-framework' holds the '.NET Framework 4.6.1' projects, whereas 'palindrome-core'
-holds '.NET Core 1.1' projects.
+'palindrome-framework' holds the **'.NET Framework 4.6.1'** projects, whereas 'palindrome-core'
+holds **'.NET Core 1.1'** projects.
 
 === VS Studio 2017 Setup
 ==== .NET Framework Solution
