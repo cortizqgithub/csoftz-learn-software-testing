@@ -1,11 +1,11 @@
-= csoftz-torre-the-palindrome-challenge :: CSoftZ Torre Palindrome Challenge
+= softz-learn-software-testing :: CSoftZ Palindrome Challenge
 
 By definition in computer science, the analysis of algorithms is the determination of the amount of time, 
 storage and/or other resources necessary to execute them. (https://en.wikipedia.org/wiki/Analysis_of_algorithms).
 
 The algorithm to implement the solution to the Palindrome Challenge is found in class 
-class _com.csoftz.torre.palindrome.lib.utils.PalindromeManager_ in the _evaluatePalindromeInRange_ in the 
-_app_code/back-end/palindrome-lib_
+class _CSoftZ.Palindrome.PalindromeManager_ in the _EvaluatePalindromeInRange_ in the 
+_palindrome-lib_
 
 [source,java]
 ----

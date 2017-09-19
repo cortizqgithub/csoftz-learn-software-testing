@@ -17,11 +17,12 @@ holds **'.NET Core 1.1'** projects.
 === VS Studio 2017 Setup
 ==== .NET Framework Solution
 For classic .NET Framework
-1. Add new project  to solution 
-2. Select Installed > Visual C# > Windows Classic Desktop > Class Library (.NET Framework)
-3. Next is to create the Test project
-4. Add new project to solution
-5. Select Insalled > Visual C# > Test > Unit Test Project (.NET Framework)
+
+. Add new project  to solution 
+. Select Installed > Visual C# > Windows Classic Desktop > Class Library (.NET Framework)
+. Next is to create the Test project
+. Add new project to solution
+. Select Insalled > Visual C# > Test > Unit Test Project (.NET Framework)
 
 [NOTE]
 ====
@@ -30,11 +31,12 @@ The test framework used here is 'Microsoft.Test.SDK'.
 
 ==== .NET Core Solution
 For .NET Core
-1. Add new project to solution
-2. Select Insalled > Visual C# > .NET Core > Class Library (.NET Core)
-3. Next is to create the Test project.
-4. Add new project to solution
-5. Select Insalled > Visual C# > Test > xUnit Test Project (.NET Core)
+
+. Add new project to solution
+. Select Insalled > Visual C# > .NET Core > Class Library (.NET Core)
+. Next is to create the Test project.
+. Add new project to solution
+. Select Insalled > Visual C# > Test > xUnit Test Project (.NET Core)
 
 [NOTE]
 ====
