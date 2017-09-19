@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>CSoftZ.Palindrome</AssemblyName>
+    <RootNamespace>CSoftZ.Palindrome</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="src\Domain\" />
+  </ItemGroup>
+
+</Project>
